@@ -8,6 +8,9 @@ DSMovie é uma aplicação full stack web e mobile construída durante a **Seman
 
 A aplicação consiste em uma página web com a listagem de alguns filmes. A página permite a interação dos usuários através das avaliações dos filmes listados no app web. 
 
+Obs: Tive um problema para entrar no NetLify, está dando algum erro de autenticação.
+Por esse motivo o projeto só está funcionando localmente, tentarei postar o link o mais rápido possível.
+
 ## Layout mobile
 ![Mobile 1](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/mob1.PNG) ![Mobile 2](https://github.com/MatheusAlvarez/projeto-dsmovie/blob/main/_assets/mob2.PNG)
 
