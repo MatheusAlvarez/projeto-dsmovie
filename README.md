@@ -30,6 +30,8 @@ Por esse motivo o projeto só está funcionando localmente, tentarei postar o li
 ## Front end
 - TypeScript
 - ReactJS
+- HTML
+- CSS
 
 ## Implantação em produção
 - Back end: Heroku
