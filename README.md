@@ -40,4 +40,5 @@ A aplicação consiste em uma página web com a listagem de alguns filmes. A pá
 # Autor
 
 Matheus Maia Alvarez
+
 https://br.linkedin.com/in/matheus-maia-alvarez-
